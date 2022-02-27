@@ -1,7 +1,5 @@
 package Exercise;
 
-import java.awt.color.ICC_ColorSpace;
-
 public class PositiveNegativeZero {
 
     public static void main(String[] args) {
